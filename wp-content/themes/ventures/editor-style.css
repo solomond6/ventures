@@ -1,0 +1,20 @@
+blockquote {
+	font-size: 1.4em;
+	font-style: italic;
+	text-align: center;
+	margin: 2em 0;
+}
+h3 {
+	margin: 1em 0;
+	text-transform: uppercase;
+	font-weight: normal;
+}
+a {
+	color:#555;
+}
+a.ventures-button {
+	background-color:#ea6c11;
+	color:white;
+	text-decoration:none;
+	padding:0.5em;
+}

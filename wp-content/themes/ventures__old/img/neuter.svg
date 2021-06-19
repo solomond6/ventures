@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg viewBox="0 0 350 500" width="150" height="300" fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" stroke="white" text-rendering="auto" stroke-linecap="square" stroke-miterlimit="10" stroke-opacity="1" shape-rendering="auto" fill="white" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto" transform="none">
+  <!--Unicode Character 'NEUTER' (U+26B2)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M64.125 365.625 L64.125 294.0469 Q52.7344 292.2188 42.4688 286.4531 Q27.8438 278.1562 19.5469 263.5312 Q11.25 248.9062 11.25 231.75 Q11.25 214.5938 19.5469 199.9688 Q27.8438 185.3438 42.4688 177.0469 Q57.0938 168.75 74.25 168.75 Q91.4062 168.75 106.0312 177.0469 Q120.6562 185.3438 128.9531 199.9688 Q137.25 214.5938 137.25 231.75 Q137.25 248.9062 128.9531 263.5312 Q120.6562 278.1562 106.0312 286.4531 Q95.7656 292.2188 84.375 294.0469 L84.375 365.625 L64.125 365.625 ZM74.25 280.125 Q86.625 280.125 96.1875 273.6562 Q105.75 267.1875 111.375 257.3438 Q117 247.5 117 231.75 Q117 216 111.375 206.1562 Q105.75 196.3125 96.1875 189.8438 Q86.625 183.375 74.25 183.375 Q61.875 183.375 52.3125 189.8438 Q42.75 196.3125 37.125 206.1562 Q31.5 216 31.5 231.75 Q31.5 247.5 37.125 257.3438 Q42.75 267.1875 52.3125 273.6562 Q61.875 280.125 74.25 280.125 Z" stroke="none" transform="rotate(-45 150 150)"/>
+    </g>
+  </g>
+</svg>

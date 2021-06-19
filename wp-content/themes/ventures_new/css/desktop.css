@@ -1,0 +1,161 @@
+.burger {
+	border-top-width:3px;
+	height: 60px;
+	width: 60px;
+}
+.burger:before,
+.burger:after {
+	height:3px;
+}
+.burger:before {
+	top:6px;
+}
+.burger:after {
+	top:15px;
+}
+#extra-navigation .burger {
+	padding-top: 0.8em;
+}
+
+#top-bar {
+	height: 60px;
+}
+.credit { /* line-height matches top-bar height, so entered here */
+  line-height: 60px;
+  padding: 0 0 0 5px;
+  left: 0;
+  right: auto;
+}
+#top-bar .site-title span.logo {
+	margin-top: 10px;
+}
+.admin-bar #top-bar {
+    margin-top: 32px;
+}
+.home-template #main > h1 {
+	height: 60px;
+	line-height: 60px;
+}
+#top-bar .middle {
+}
+#top-bar .site-title,
+#menu-main-menu > li {
+	font-size: 1.3em;
+	line-height:60px;
+}
+.msie #top-bar .site-title,
+.msie #menu-main-menu > li {
+	line-height:55px;
+}
+#menu-main-menu > li:last-child:before {
+	line-height: 60px;
+}
+#top-bar .search-toggle {
+	width: 60px;
+	height: 60px;
+}
+#top-bar .search-toggle:after {
+	font-size:1.5em;
+	line-height:1.7;
+	height:1.2em;
+}
+.msie #top-bar .search-toggle:after {
+	line-height:1.8;
+	top:-6px;
+}
+
+#extra-navigation {
+	width: 60px;
+	height: 60px;
+}
+
+.teaser-list .category-button {
+}
+.teaser-list .bullet-button:before {
+	display: none;
+	padding-left: 1em;
+}
+.single-ventures_briefs .entry-content .post {
+	width: auto;
+}
+.teaser-list .post:hover .gray-arrow:after {
+	color: white;
+}
+
+.entry-content p,
+.single .post-content div {
+	margin: 1em 0 0;
+	font-size: 1.1em;
+}
+.entry-content p:first-child,
+.single .post-content div:first-child {
+	margin-top: 0;
+}
+.single .entry-content > aside {
+	max-width: 300px;
+}
+.author .post-content {
+	max-width: calc(100% - 300px);
+}
+
+.single .entry-content .post-content > p:first-child::first-letter {
+	float: left;
+	font-size: 3em;
+	line-height: 0.7;
+	margin-top: 0.15em;
+	text-transform: uppercase;
+}
+#page-content {
+	margin-top:4%;
+	margin-bottom:4%;
+}
+@media (min-width: 1400px) {
+	#footer-share {
+		margin-top: 0;
+		position:absolute;
+		height: 28px;
+		top:0;
+		right: 30px;
+		right: calc(30px - 0.05em);
+	}
+	#footer-nav > #footer-share {
+		display:inline-block;
+		margin-top: 0.2em;
+	}
+}
+#footer-nav > div:nth-child(2) {
+	display: inline-block;
+	position: relative;
+	margin-left: 1em;
+	font-size: 1em;
+	margin-bottom: 0em;
+}
+#footer-nav > div:nth-child(2):before {
+	content: ' | ';
+	position: absolute;
+	left: -0.5em;
+	top: -0.1em;
+	font-size: 1.2em;
+}
+
+.bottom-fixed-button {
+	bottom: 15px;
+}
+#dailybrief-button {
+	left: 15px;
+}
+#share-button {
+	right: 15px;
+}
+
+#overlay-close-button {
+	top: 0.33em;
+	right: 0.4em;
+	padding:10px;
+}
+
+.top-story > .inner {
+	padding-right:0;
+	left:0;
+	right:0;
+}
